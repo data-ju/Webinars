@@ -1,0 +1,5 @@
+# Calculadora- Webinar EBAC
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/eipoulain/pen/YzjPMNG](https://codepen.io/eipoulain/pen/YzjPMNG).
+
+Calculadora de Horas Trabalhadas utilizando HTML, CSS e Javascript, elaborada a partir do Webinar "Criando sua calculadora com JS" da EBAC.
